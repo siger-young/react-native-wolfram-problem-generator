@@ -1,0 +1,9 @@
+http://www5a.wolframalpha.com/input/wpg/problem.jsp?count=1&difficulty=Beginner&load=1&type=TrigSubIntegrate
+
+
+http://www5a.wolframalpha.com/input/wpg/checkanswer.jsp?attempt=1&difficulty=Beginner&load=true&problemID=MSP6253202f81041hb7cf370000214cec6c2896bh2a&query=6&s=48&type=InputField
+http://www5a.wolframalpha.com/input/wpg/checkanswer.jsp?attempt=2&difficulty=Beginner&load=true&problemID=MSP6253202f81041hb7cf370000214cec6c2896bh2a&query=(1%2F6)(4*ln(%5Csqrt%7Bt%5E2-(4%2F9)%7D%2Bt)-3t*%5Csqrt%7B9t%5E2-4%7D)%2BC&s=48&type=InputField
+
+http://www5a.wolframalpha.com/input/wpg/problem.jsp?count=1&difficulty=Beginner&load=1&s=48&sessionID=MSP6252202f81041hb7cf3700003bda3dd930f112ha&type=TrigSubIntegrate
+
+http://www5a.wolframalpha.com/input/wpg/problem.jsp?count=1&difficulty=Advanced&load=1&s=48&sessionID=MSP6252202f81041hb7cf3700003bda3dd930f112ha&type=TrigSubIntegrate

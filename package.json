@@ -1,0 +1,30 @@
+{
+  "name": "WolframProblemGenerator",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "apisauce": "^0.1.3",
+    "immutable": "^3.8.1",
+    "react": "15.3.1",
+    "react-native": "0.32.0",
+    "react-native-router-flux": "^3.26.0",
+    "react-native-vector-icons": "^2.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-actions": "^0.12.0",
+    "redux-thunk": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.4",
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.7.0",
+    "eslint-plugin-jsx-a11y": "^1.2.0",
+    "eslint-plugin-react": "^5.0.1",
+    "reactotron": "^0.6.1"
+  }
+}
